@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/tompersonal/IdeaProjects/mars-photo-gen/target/scala-2.13/mars-photo-gen_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uk[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tompersonal/IdeaProjects/mars-photo-gen/target/scala-2.13/classes/uk[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uk/co[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tompersonal/IdeaProjects/mars-photo-gen/target/scala-2.13/classes/uk/co[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uk/co/tomsturgeon[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tompersonal/IdeaProjects/mars-photo-gen/target/scala-2.13/classes/uk/co/tomsturgeon[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uk/co/tomsturgeon/marsgen[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tompersonal/IdeaProjects/mars-photo-gen/target/scala-2.13/classes/uk/co/tomsturgeon/marsgen[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uk/co/tomsturgeon/marsgen/HttpClient[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tompersonal/IdeaProjects/mars-photo-gen/target/scala-2.13/classes/uk/co/tomsturgeon/marsgen/HttpClient[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uk/co/tomsturgeon/marsgen/HttpClient/HttpClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tompersonal/IdeaProjects/mars-photo-gen/target/scala-2.13/classes/uk/co/tomsturgeon/marsgen/HttpClient/HttpClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uk/co/tomsturgeon/marsgen/HttpClient/HttpClient$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tompersonal/IdeaProjects/mars-photo-gen/target/scala-2.13/classes/uk/co/tomsturgeon/marsgen/HttpClient/HttpClient$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uk/co/tomsturgeon/marsgen/MarsGenApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tompersonal/IdeaProjects/mars-photo-gen/target/scala-2.13/classes/uk/co/tomsturgeon/marsgen/MarsGenApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uk/co/tomsturgeon/marsgen/routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tompersonal/IdeaProjects/mars-photo-gen/target/scala-2.13/classes/uk/co/tomsturgeon/marsgen/routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uk/co/tomsturgeon/marsgen/routes/GetImageRoute.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tompersonal/IdeaProjects/mars-photo-gen/target/scala-2.13/classes/uk/co/tomsturgeon/marsgen/routes/GetImageRoute.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uk/co/tomsturgeon/marsgen/routes/GetImageRoute$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tompersonal/IdeaProjects/mars-photo-gen/target/scala-2.13/classes/uk/co/tomsturgeon/marsgen/routes/GetImageRoute$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uk/co/tomsturgeon/marsgen/routes/GetImageRoute$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tompersonal/IdeaProjects/mars-photo-gen/target/scala-2.13/classes/uk/co/tomsturgeon/marsgen/routes/GetImageRoute$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

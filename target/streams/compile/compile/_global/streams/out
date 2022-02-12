@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/tompersonal/IdeaProjects/mars-photo-gen/project/target/.sbt-compilation-infos/root-compile/.sbt-idea-lock ...[0m
+[0m[[0m[0minfo[0m] [0m[0m/Users/tompersonal/IdeaProjects/mars-photo-gen/src/main/scala/config/AppEnvironment.scala:1:1: [0m
+[0m[[0m[0minfo[0m] [0m[0mFound names but no class, trait or object is defined in the compilation unit.[0m
+[0m[[0m[0minfo[0m] [0m[0mThe incremental compiler cannot record the dependency information in such case.[0m
+[0m[[0m[0minfo[0m] [0m[0mSome errors like unused import referring to a non-existent class might not be reported.[0m
+[0m[[0m[0minfo[0m] [0m[0m    [0m
+[0m[[0m[0minfo[0m] [0m[0mpackage uk.co.tomsturgeon.marsgen[0m
+[0m[[0m[0minfo[0m] [0m[0m^[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/tompersonal/IdeaProjects/mars-photo-gen/project/target/.sbt-compilation-infos/root-compile/.sbt-idea-lock.[0m
